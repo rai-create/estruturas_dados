@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Questao8 {
     public static void main(String[] args) {
 
-
         Scanner sc = new Scanner(System.in);
 
         int []idade = new int[5];
