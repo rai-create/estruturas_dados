@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
  *
  * @param <T> o tipo de elementos armazenados na Pilha
  *
- * @author Carlos Daniel
+ * @author Raiane Melgaço
  * @version 1.0
  * @since 06/10/2025
  */
