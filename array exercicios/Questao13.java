@@ -1,4 +1,4 @@
-//receber temperatura media de todos os meses,media anual das temperaturas,e mostre os meses 
+//receber temperatura media de todos os meses,media anual das temperaturas,e mostre os meses
 //que ultrapasssaram a média
 import java.util.Scanner;
 
